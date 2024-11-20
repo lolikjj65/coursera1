@@ -33,4 +33,3 @@ images.forEach(image => {
     image.addEventListener('mouseover', upDate);
     image.addEventListener('mouseout', undo);
 });
-
